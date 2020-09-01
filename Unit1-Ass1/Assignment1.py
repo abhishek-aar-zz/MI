@@ -68,6 +68,3 @@ def get_selected_attribute(df):
 	example : ({'A':0.123,'B':0.768,'C':1.23} , 'C')
 	"""
     return (information_gains, selected_column)
-
-
-# END
